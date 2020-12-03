@@ -1,4 +1,3 @@
 # Clamper
-=======
 
 Dead on arrival…
